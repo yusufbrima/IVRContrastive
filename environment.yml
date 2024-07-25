@@ -1,0 +1,17 @@
+name: deepc
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - pytorch-cuda=11.8
+  - torchvision
+  - torchaudio
+  - pytorch
+  - scipy
+  - matplotlib
+  - scikit-learn
+  - numpy
+  - seaborn
+  - click
+  - tqdm
+  - ipykernel
